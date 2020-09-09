@@ -1,2 +1,3 @@
-# QA-cheats
-Cheat sheets for the QA faculty
+# Charles: установка и настройка.
+
+### 1. Скачивание и первоначальная настройка.
