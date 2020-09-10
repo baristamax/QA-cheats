@@ -116,7 +116,7 @@
 <details>
   <summary>Посмотреть</summary>
   
-  #### 1. 1. Чтобы изменять ответ сервера вручную, в Charles настрой фильтр по целевому сайту. Затем открой нужную страницу в браузере. Например, для страницы https://zen.yandex.ru/media/praktikum/skolko-nujno-programmistov-chtoby-vy-chitali-dzen-5d4d3dd0bf50d500c41c590f укажи в фильтре zen.yandex.ru:
+  #### 1. Чтобы изменять ответ сервера вручную, в Charles настрой фильтр по целевому сайту. Затем открой нужную страницу в браузере. Например, для страницы https://zen.yandex.ru/media/praktikum/skolko-nujno-programmistov-chtoby-vy-chitali-dzen-5d4d3dd0bf50d500c41c590f укажи в фильтре zen.yandex.ru:
   <details>
   <summary>Скриншот</summary>
   
