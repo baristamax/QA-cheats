@@ -62,15 +62,51 @@
   <summary>Подробная инструкция</summary>
   
   #### 1. Чтобы изменять ответ сервера в автоматическом режиме, в Charles открой меню «Tools» → «Rewrite»:
+  <details>
+  <summary>Скриншот</summary>
+  
+![Screenshot](Авто1.jpg)
+</details>
   
   #### 2. Поставь чек-бокс «Enable Rewrite» и нажми на кнопку «Add»:
+  <details>
+  <summary>Скриншот</summary>
+  
+![Screenshot](Авто2.jpg)
+</details>
   
   #### 3. В открывшемся окне заполни поле «Name» и нажми «Add» в блоке «Location». Заполни появившиеся поля согласно заданию из Тренажёра и нажми OK:
+  <details>
+  <summary>Скриншот</summary>
+  
+![Screenshot](Авто3.jpg)
+</details>
   
   Должен появиться результат как на скриншоте:
+  <details>
+  <summary>Скриншот</summary>
+  
+![Screenshot](Авто3.1.jpg)
+</details>
   
   #### 4. Нажми «Add» в блоке «Type/Action». Заполни появившиеся поля согласно заданию из Тренажёра и нажми OK:
+  <details>
+  <summary>Скриншот</summary>
+  
+![Screenshot](Авто4.jpg)
+</details>
   
   #### 5. Убедись, что настройки автоматической подмены совпадают с тем, что изображено на скриншоте и нажми ОК:
+  <details>
+  <summary>Скриншот</summary>
+  
+![Screenshot](Авто5.jpg)
+</details>
   
   #### 6. Убедись, что в меню «Tools» стоит галочка напротив «Rewrite». Если не стоит, то кликни на эту строку:
+  <details>
+  <summary>Скриншот</summary>
+  
+![Screenshot](Авто6.jpg)
+</details>
+  </details>
