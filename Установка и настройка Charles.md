@@ -3,7 +3,7 @@
 ### 1. Скачивание и первоначальная настройка.
 
 <details>
-  <summary>Подробная инструкция</summary>
+  <summary>Посмотреть</summary>
   
 #### 1. Чтобы скачать Charles, перейди по ссылке https://www.charlesproxy.com/download/
 
@@ -59,7 +59,7 @@
 ### 2. Автоматическое изменение ответа сервера.
 
 <details>
-  <summary>Подробная инструкция</summary>
+  <summary>Посмотреть</summary>
   
   #### 1. Чтобы изменять ответ сервера в автоматическом режиме, в Charles открой меню «Tools» → «Rewrite»:
   <details>
@@ -110,3 +110,22 @@
 ![Screenshot](Авто6.jpg)
 </details>
   </details>
+
+
+### 3. Ручное изменение ответа сервера.
+<details>
+  <summary>Посмотреть</summary>
+  
+  #### 1. 1. Чтобы изменять ответ сервера вручную, в Charles настрой фильтр по целевому сайту. Затем открой нужную страницу в браузере. Например, для страницы https://zen.yandex.ru/media/praktikum/skolko-nujno-programmistov-chtoby-vy-chitali-dzen-5d4d3dd0bf50d500c41c590f укажи в фильтре zen.yandex.ru:
+  
+  #### 2.
+  
+  #### 3.
+  
+  #### 4.
+  
+  #### 5.
+  
+  #### 6.
+  
+  #### 7.
